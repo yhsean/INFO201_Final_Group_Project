@@ -8,7 +8,7 @@ Individuals gather near the businesses to earn money and form cities, and for no
 
 Obesity is one of the most negative returns from the risk of acceleration. According to the article by John Rennie Short, “one in five deaths of those aged 40 to 85 is attributed to obesity, and one recent study projects that by 2030, nearly half of all U.S. adults will be obese”. Especially in the US, the number 40% representing the rate of Americans considered obese is surprisingly high. Works and leisure activities in the city require little movement, which is even more decelerated by the emergence of private vehicles. Since the original cause of cities was simply for money and economic development, moreover, the rise of vehicles fueled the urban design to concentrate on the roads for cars and contributed to the greater acceleration of industrialization. However, the hurried urban planning has been the most fundamental problem that has popularized urban illnesses including obesity.
 
-In this regard, we decided to analyze the inverse relationship between the urban conditions like walkability and obesity over urbanization more in depth and seek solutions that can suggest an advancement of walkability for the reduction of obesity rate and further visualize the sustainable urban planning for the prevention of illnesses in urban lives.
+In this respect, we decided to analyze the inverse relationship between the urban conditions like walkability and obesity over urbanization more in depth and seek solutions that can suggest an advancement of walkability for the reduction of obesity rate and further visualize the sustainable urban planning for the prevention of illnesses in urban lives.
 
 ## Finding Data
 
