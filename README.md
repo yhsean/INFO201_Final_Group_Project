@@ -4,6 +4,10 @@
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6747269/
 https://www.cdc.gov/obesity/data/adult.html
+## Story Pitch
+  Our first principle to decide the main proposal was to approach one of the ongoing issues that are necessary but complicated to be solved at once. A number of online sources claimed current serious issues in terms of environment, employment, economics, and health, and one article captured our attention, introducing that the obesity around the urban cities and capitals is a seriously underrated “epidemic” all around the world. 
+  Individuals gather near the businesses to earn money and form cities-for now, over half of the world’s population live in the cities. As people group close by, it takes a shorter distance to interact with each other, but leads to having less time to spend for themselves. They can efficiently buy, eat, work, play, and do anything they want in the city where there’s everything they need, but feel limited time, and the stressful constraint and obsession of time management forces them to utilize the more accelerative. The acceleration of urbanization has been able to feed their money, but also raise their mental and physical illness.
+  Obesity is one of the negative returns from the risk of acceleration. Especially in the US, the number 40% representing the rate of Americans considered obese is surprisingly high. Works and leisure activities in the city require little movement, and the emergence of private vehicles decelerates their health. Since the original cause of cities was simply for economics, the hurried urban planning has been the most fundamental problem that has spread the obesity over urbanization. 
 
 
 ## Finding Data
