@@ -15,21 +15,21 @@ Our second piece of data was found on Data.gov but downloaded from Lake County's
 ## Background Research/Inspiration
 
 https://www.fastcompany.com/90448831/bad-urban-design-is-making-us-miserable
-  - This article focuses on the impacts of urbanization as a broader idea which encompasses the spectrum of walkability.
-  - It also focuses more on impacts to the mental health of those living in a highly urbanized area, but this was inspirational for our project because of the affect mental health can have on ones physical health.
+  - This article focuses on the impacts of urbanization as a broader idea that encompasses the spectrum of walkability.
+  - It also focuses more on impacts on the mental health of those living in a highly urbanized area, but this was inspirational for our project because of the effect mental health can have on one's physical health.
 
 https://tomorrow.city/a/how-to-reduce-obesity-lose-weight-thank-to-urbanism
-  - This article provided another source of inspriration through its suggestions towards city planners to help create a healthier urban environment, even though we don't aim to provide such suggestions, we aim to show planners which states are on the right track.
-  - Our overarching goals are quite similar however, as we both aim to inform and help cure the nationwide problem we are faced with.
+  - This article provided another source of inspiration through its suggestions for city planners to help create a healthier urban environment, even though we don't aim to provide such suggestions, we aim to show planners which states are on the right track.
+  - Our overarching goals are quite similar, however, as we both aim to inform and help cure the nationwide problem we are faced with.
 
 https://theconversation.com/is-your-city-making-you-fat-how-urban-planning-can-address-the-obesity-epidemic-130858
-  - This article focuses on the urban sprawl that we agree is a huge part of the problem.
-  - The nationwide trend of building cities around cars is tied to this and a central focus for us, building communites where time spent outdoors and not in your car is valuable and .
+  - This article focuses on urban sprawl that we agree is a huge part of the problem.
+  - The nationwide trend of building cities around cars is tied to this and a central focus for us, building communities where time spent outdoors and not in your car is valuable and something we want to show through our project.
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6747269/
-  - This study also focuses on obesity and studies and discusses multiple causes for the epidemic, however we will only be focusing on the characteristics of built environments that affect the issue, not so muxch health policies or other factors.
-  - Whereas the scope of our project is limited to the  United States, this study explores the issues globally, including places with much better city planning than in the US.
+  - This study also focuses on obesity studies and discusses multiple causes for the epidemic, however, we will only be focusing on the characteristics of built environments that affect the issue, not so much on health policies or other factors.
+  - Whereas the scope of our project is limited to the United States, this study explores the issues globally, including places with much better city planning than in the US.
 
 https://www.cdc.gov/obesity/data/adult.html
-  - The CDC has more information regarding obesity and its discrepencies between different demographics, we are taking a more geographical focus. 
-  - The CDC understands the scope of the issue as we do and inspired us in that way, but does not mention city plannign trends over the accelarated development of the US as an issue, which we want to bring to greater light nationally.
+  - The CDC has more information regarding obesity and its discrepancies between different demographics, so we are taking a more geographical focus. 
+  - The CDC understands the scope of the issue as we do and inspired us in that way, but does not mention city planning trends over the accelerated development of the US as an issue, which we want to bring to greater light nationally.
